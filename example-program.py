@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 word = input("Please enter a word: ").lower()
 
 vowels_list = ["a", "e", "i", "o", "u"]
