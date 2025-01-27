@@ -18,3 +18,4 @@ print("Number of consonants:", consonants)
 
 #Dobrze napisany kodzik pozdrawiam
 #Również potwierdzam - bardzo fajny kod (12.01.2025)
+#Ok 
